@@ -28,4 +28,4 @@
   ![](https://github.com/wnz27/Learn_Linux/blob/master/Image_file/%E5%91%BD%E4%BB%A4%E6%A0%BC%E5%BC%8F.png)
   
 ## 权限说明
-  ![]()
+  ![](https://github.com/wnz27/Learn_Linux/blob/master/Image_file/%E6%9D%83%E9%99%90%E8%AF%B4%E6%98%8E.png)
