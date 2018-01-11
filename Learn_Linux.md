@@ -23,3 +23,9 @@
 
 ## 命令提示符
   ![](https://github.com/wnz27/Learn_Linux/blob/master/Image_file/%E5%91%BD%E4%BB%A4%E6%8F%90%E7%A4%BA%E7%AC%A6%E6%9B%B4%E6%96%B0.png)
+
+## 命令格式
+  ![](https://github.com/wnz27/Learn_Linux/blob/master/Image_file/%E5%91%BD%E4%BB%A4%E6%A0%BC%E5%BC%8F.png)
+  
+## 权限说明
+  ![]()
