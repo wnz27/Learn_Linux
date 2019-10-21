@@ -1,2 +1,2 @@
-- [字符替换练习](./str_prac.sh)
-- [一些日期处理命令](./date_prac.sh)
+- [字符替换练习](./basement/str_prac.sh)
+- [一些日期处理命令](./basement/date_prac.sh)
