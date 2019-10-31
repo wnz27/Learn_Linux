@@ -3,4 +3,6 @@
 - [find命令](./find命令/find.md)
     - [截图笔记](./img)
 - [grep 和 egrep](./grep和egrep/grep_egrep.md)
-    - []()
+
+### sed
+- [sed介绍](./sed/sed/md)
