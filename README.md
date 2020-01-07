@@ -2,6 +2,9 @@
 
 Path to Linux
 
-## [Road_to_Linux](https://github.com/wnz27/Learn_Linux/blob/master/Learn_Linux.md)
+## [Linux 手写笔记](./Learn_Linux.md)
 
 ## [Road_to_Shell](./RoadToShell/guide.md)
+
+## 虚拟机相关
+- [网络配置问题](./virtualMachine/虚拟机网络配置问题.md)
