@@ -5,6 +5,7 @@ Path to Linux
 ## [Linux 手写笔记](./Learn_Linux.md)
 
 ## [Road_to_Shell](./RoadToShell/guide.md)
+- [命令行工具切换](./RoadToShell/命令行工具切换.md)
 
 ## 虚拟机相关
 - [网络配置问题](./virtualMachine/虚拟机网络配置问题.md)
