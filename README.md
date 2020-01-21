@@ -17,3 +17,7 @@ Path to Linux
 ## 远程服务器
 - [ssh相关记录](./remoteServer/ssh相关.md)
 - [如何通过SFTP往远程服务器传输文件](./remoteServer/如何通过SFTP往远程服务器传输文件.md)
+
+## Mac相关
+- [mac查看本机信息命令](./remoteServer/mac查看信息命令.md)
+- [mac上如何装sysstat(暂未解决)](./remoteServer/mac上如何装sysstat.md)
