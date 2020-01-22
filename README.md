@@ -20,4 +20,3 @@ Path to Linux
 
 ## Mac相关
 - [mac查看本机信息命令](./remoteServer/mac查看信息命令.md)
-- [mac上如何装sysstat(暂未解决)](./remoteServer/mac上如何装sysstat.md)
