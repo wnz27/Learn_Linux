@@ -1,3 +1,11 @@
+<!--
+ * @Author: 27
+ * @LastEditors: 27
+ * @Date: 2019-10-21 17:03:10
+ * @LastEditTime: 2020-03-24 22:28:13
+ * @FilePath: /Learn_Linux/README.md
+ * @description: type some description
+ -->
 # Learn_Linux
 
 Path to Linux
@@ -8,6 +16,7 @@ Path to Linux
 
 ## [Road_to_Shell](./RoadToShell/guide.md)
 - [命令行工具切换](./RoadToShell/命令行工具切换.md)
+- [SHELL脚本学习](./RoadToShell/guide.md)
 
 ## 虚拟机相关
 - [网络配置问题](./virtualMachine/虚拟机网络配置问题.md)
