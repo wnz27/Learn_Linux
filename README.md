@@ -12,7 +12,8 @@ Path to Linux
 
 - [主机端口大致规范](./content/主机端口大致规范.md)
 
-## [Linux 手写笔记](./content/Learn_Linux.md)
+## 技巧杂篇
+- [常用快捷键操作](./content/技巧杂篇/常用快捷键操作.md)
 
 ## [Road_to_Shell](./content/RoadToShell/guide.md)
 - [命令行工具切换](./content/RoadToShell/命令行工具切换.md)
@@ -29,3 +30,5 @@ Path to Linux
 
 ## Mac相关
 - [mac查看本机信息命令](./content/remoteServer/mac查看信息命令.md)
+
+## [Linux 手写笔记](./content/Learn_Linux.md)
