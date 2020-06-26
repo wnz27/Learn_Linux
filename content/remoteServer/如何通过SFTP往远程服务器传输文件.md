@@ -2,6 +2,8 @@
 FTP：File Transfer Protocol，文件传输协议
 SFTP：这是基于ssh的文件安全传输的协议
 
+[参考文章-from-digitalocean](https://www.digitalocean.com/community/tutorials/how-to-use-sftp-to-securely-transfer-files-with-a-remote-server)
+
 ### 1、如何通过sftp连接远程服务器或者主机
 
 
